@@ -1,6 +1,5 @@
-# Wifi-Scanner-Best-Signal
-
-Projeto 2 - WiFi-Scanner-Best-Signal
+# Wifi-connect
+Projeto 2 - Wifi-connect
 
 Ánalise e conexão automática à melhor rede aberta.
 
